@@ -18,6 +18,8 @@ I'm crypto enthusiast with a side project (Telegram Web App) that has 300,000+ u
 
 #### My CV: [Resume_Andrejs_Hmelovs.pdf](https://raw.githubusercontent.com/ahmlvs/ahmlvs/master/Resume_Andrejs_Hmelovs.pdf)
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=ahmlvs&theme=github-dark" alt="LeetCode Badges"/>
+
 <h4 align="left">Connect with me</h4>
 <p align="left">
 <a href="https://x.com/ahmlvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmlvs" height="30" width="40" /></a>
