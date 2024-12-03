@@ -13,7 +13,7 @@ I created JS user-friendly AI Furniture Planner widget [BigLayoutData](https://g
 I'm crypto enthusiast with a side project (Telegram Web App) that has 300,000+ users (max MC $600K+) 💰
 
 - 📖 Always learning
-- 🤝 Would love to collaborate
+- 🤝 Would love to collaborate 
 - 💬 Always ready to help, find me in Discord as ahmlvs
 
 #### My CV: [Resume_Andrejs_Hmelovs.pdf](https://raw.githubusercontent.com/ahmlvs/ahmlvs/master/Resume_Andrejs_Hmelovs.pdf)
