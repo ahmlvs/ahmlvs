@@ -14,7 +14,7 @@ I'm crypto enthusiast with a side project (Telegram Web App) that has 300,000+ u
 
 - 📖 Always learning
 - 🤝 Would love to collaborate 
-- 💬 Always ready to help, find me in Discord as ahmlvs
+- 💬 Always ready to help, find me in Discord as ```ahmlvs```
 
 #### My CV: [Resume_Andrejs_Hmelovs.pdf](https://raw.githubusercontent.com/ahmlvs/ahmlvs/master/Resume_Andrejs_Hmelovs.pdf)
 
