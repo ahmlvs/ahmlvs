@@ -6,9 +6,9 @@ My professional programmer journey started in 2010 at MIPT and web development l
 
 I'm good in languages: Python, SQL, JS, etc.
 
-I use Python with [Flask](https://github.com/ahmlvs/react-flask-app-example-contacts), [Flask SocketIO](https://github.com/ahmlvs/python-live-chat-app), [Django](https://github.com/ahmlvs/react-django-app-example-notes), [FastApi](https://github.com/ahmlvs/fastapi-rest-api), [pygame](https://github.com/ahmlvs/gun-game) development 💪
+I use Python with [FastApi](https://github.com/ahmlvs/aaadevs_com), [Flask](https://github.com/ahmlvs/react-flask-app-example-contacts), [Flask SocketIO](https://github.com/ahmlvs/python-live-chat-app), [Django](https://github.com/ahmlvs/react-django-app-example-notes), [pygame](https://github.com/ahmlvs/gun-game) development 💪
 
-I created JS user-friendly AI Furniture Planner widget [BigLayoutData](https://github.com/BigLayoutData/wbld) for Dubai layouts 🏘
+I created JS user-friendly AI Furniture Planner widget [BigLayoutData](https://github.com/BigLayoutData/wbld) 🏘
 
 I'm crypto enthusiast with a side project (Telegram Web App) that has 300,000+ users (max MC $600K+) 💰
 
