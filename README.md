@@ -2,7 +2,7 @@
 
 Welcome to my page ⚡️
 
-My professional programmer journey started in 2010 at MIPT and web development life in 2019 ❤️
+My professional software engineer journey started in 2010 at MIPT and web development life in 2019 ❤️
 
 I'm good in languages: Python, SQL, JS, etc.
 
