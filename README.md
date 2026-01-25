@@ -2,7 +2,7 @@
 
 Welcome to my page ⚡️
 
-Python Software Engineer with over 5 years of expertise in Python and more than 10 years of overall programming experience.
+Software Engineer with over 10 years of programming experience, specializing in Python (5+ years) and Rust (1 year).
 
 Proficient in grasping your business needs, transforming them into technical specifications and simply getting the job done.
 
