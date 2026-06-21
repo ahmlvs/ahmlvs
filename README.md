@@ -1,20 +1,20 @@
 ### Hi! 👋
 
-Welcome to my page ⚡️
+Backend Team Lead & Python Engineer · 10+ years in engineering, 5+ years in Python
 
-Software Engineer with over 10 years of programming experience, specializing in Python (5+ years) and Rust (1 year).
+I build scalable highload backend systems and lead the engineers who run them.
 
-Proficient in grasping your business needs, transforming them into technical specifications and simply getting the job done.
-
-- 5+ years Python programming, 4+ years Data Analytics & Research, 2+ years Team Leadership (5+ people).
-- Crypto enthusiast with a side project TMA game reaching 300,000+ users, and active trading experience in spot, futures, options, and DEX/AMMs.
-- MIPT (Phystech) graduate, IPHO 2009, 2010 honorable mentions
+- 🚀 Backend Team Lead at Syntx AI — leading a team of 5 backend engineers on a platform processing 1M+ AI generations per day
+- 🎮 Built TONFNOT from scratch — Telegram MiniApp game, 300K+ players, $600K+ peak market cap
+- 📊 Background in data analytics at BlaBlaCar and OZON
+- 🎓 MIPT (Phystech) graduate · International Physics Olympiad honorable mentions, 2009 & 2010
+- 🦀 Exploring Rust on the side — CQRS patterns, clean architecture
 
   --------------
 
-- 📖 Always learning
-- 🤝 Would love to collaborate 
-- 💬 Always ready to help, find me in X/Twitter, LinkedIn as ```ahmlvs```
+📍 Limassol, Cyprus
+🤝 Open to backend engineering & leadership conversations
+💬 Find me on LinkedIn or X as `ahmlvs`
 
 ### 🛠️ Stack
 
