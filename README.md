@@ -12,9 +12,9 @@ I build scalable highload backend systems and lead the engineers who run them.
 
   --------------
 
-📍 Limassol, Cyprus
-🤝 Open to backend engineering & leadership conversations
-💬 Find me on LinkedIn or X as `ahmlvs`
+- 📍 Limassol, Cyprus
+- 🤝 Open to backend engineering & leadership conversations
+- 💬 Find me on LinkedIn or X as `ahmlvs`
 
 ### 🛠️ Stack
 
