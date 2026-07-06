@@ -1,10 +1,10 @@
 ### Hi! 👋
 
-Backend Team Lead & Python Engineer · 10+ years in engineering, 5+ years in Python
+Backend Team Lead & Python Engineer · 10+ years in tech, 5+ years in Python
 
 I build scalable highload backend systems and lead the engineers who run them.
 
-- 🚀 Backend Team Lead at Syntx AI — leading a team of 5 backend engineers on a platform processing 1M+ AI generations per day
+- 🚀 Backend Team Lead at Syntx AI — led a team of 5 backend engineers on a platform processing 1M+ AI generations per day
 - 🎮 Built TONFNOT from scratch — Telegram MiniApp game, 300K+ players, $600K+ peak market cap
 - 📊 Background in data analytics at BlaBlaCar and OZON
 - 🎓 MIPT (Phystech) graduate · International Physics Olympiad honorable mentions, 2009 & 2010
