@@ -1,10 +1,10 @@
 ### Hi! 👋
 
-Backend Team Lead & Python Engineer · 10+ years in tech, 5+ years in Python
+Python Backend Engineer · 10 years in tech, 5+ years in Python
 
-I build scalable highload backend systems and lead the engineers who run them.
+I build and stabilize production backend services. If production is down, no feature matters.
 
-- 🚀 Backend Team Lead at Syntx AI — led a team of 5 backend engineers on a platform processing 1M+ AI generations per day
+- 🚀 Python Backend Developer → Backend Team Lead at Syntx AI — hands-on performance and stability work on a platform processing 1M+ AI generations per day
 - 🎮 Built TONFNOT from scratch — Telegram MiniApp game, 300K+ players, $600K+ peak market cap
 - 📊 Background in data analytics at BlaBlaCar and OZON
 - 🎓 MIPT (Phystech) graduate · International Physics Olympiad honorable mentions, 2009 & 2010
@@ -13,7 +13,7 @@ I build scalable highload backend systems and lead the engineers who run them.
   --------------
 
 - 📍 Limassol, Cyprus
-- 🤝 Open to backend engineering & leadership conversations
+- 🤝 Open to backend engineering conversations
 - 💬 Find me on LinkedIn or X as `ahmlvs`
 
 ### 🛠️ Stack
