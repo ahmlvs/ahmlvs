@@ -7,8 +7,8 @@ I build and stabilize production backend services. If production is down, no fea
 ⚡ Building [Troniti](https://troniti.com) — a non-custodial yield operator for TRX holders:
 automated stake/claim/vote cycles + energy-market income. The security model is the product:
 the operator permission can stake and vote, but can **never move funds out**.
-Python · FastAPI · PostgreSQL · tronpy — built solo, AI-first, in public
-([devlog on X](https://x.com/ahmlvs))
+
+Python · FastAPI · PostgreSQL · tronpy — built solo, AI-first, in public ([devlog on X](https://x.com/ahmlvs))
 
 - 🚀 Python Backend Developer → Backend Team Lead at Syntx AI — hands-on performance and stability work on a platform processing 1M+ AI generations per day
 - 🎮 Built TONFNOT from scratch — Telegram MiniApp game, 300K+ players, $600K+ peak market cap
