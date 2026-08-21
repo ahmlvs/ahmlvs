@@ -1,17 +1,17 @@
 ### Hi! 👋
 
-Python Backend Engineer · 10 years in tech, 5+ years in Python
+Backend Team Lead · 10 years in tech, 5+ years in Python
 
-I build and stabilize production backend services. If production is down, no feature matters.
+I lead backend teams that build and stabilize production services. If production is down, no feature matters.
 
-⚡ Building [Troniti](https://troniti.com) — a non-custodial yield operator for TRX holders:
+⚡ Building [troniti](https://troniti.com) — a non-custodial yield operator for TRX holders:
 automated stake/claim/vote cycles + energy-market income. The security model is the product:
 the operator permission can stake and vote, but can **never move funds out**.
 
 Python · FastAPI · PostgreSQL · tronpy — built solo, AI-first, in public ([devlog on X](https://x.com/ahmlvs))
 
-- 🚀 Python Backend Developer → Backend Team Lead at Syntx AI — hands-on performance and stability work on a platform processing 1M+ AI generations per day
-- 🎮 Built TONFNOT from scratch — Telegram MiniApp game, 300K+ players, $600K+ peak market cap
+- 🚀 Backend Team Lead at Syntx AI — grew the team 1→5 on a platform processing 1M+ AI generations per day; stayed hands-on with performance and stability work
+- 🎮 Founded & led TONFNOT from scratch — Telegram MiniApp game, 300K+ players, $600K+ peak market cap
 - 📊 Background in data analytics at BlaBlaCar and OZON
 - 🎓 MIPT (Phystech) graduate · International Physics Olympiad honorable mentions, 2009 & 2010
 - 🦀 Exploring Rust on the side — CQRS patterns, clean architecture
@@ -19,7 +19,7 @@ Python · FastAPI · PostgreSQL · tronpy — built solo, AI-first, in public ([
   --------------
 
 - 📍 Limassol, Cyprus
-- 🤝 Open to backend engineering conversations
+- 🤝 Open to backend team lead conversations
 - 💬 Find me on LinkedIn or X as `ahmlvs`
 
 ### 🛠️ Stack
